@@ -7,3 +7,4 @@ mvn package
 java -jar target/springboot30snapshottry-0.0.1-SNAPSHOT.jar
 
 curl localhost:8080/api/v1/book
+
